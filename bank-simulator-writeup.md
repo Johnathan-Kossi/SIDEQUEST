@@ -1,8 +1,8 @@
-# Write-up : Challenge Bank-Simulator
+# Write-up : Challenge Bank-Simulator - BREIZHCTF
 
 ## Contexte
 
-Ce challenge a été réalisé suite à une proposition de Zeecka offrant une bière à quiconque résoudrait un challenge lié à COBOL.
+Ce challenge a été réalisé dans le cadre du BREIZH CTF.
 
 ## Analyse initiale du binaire
 
