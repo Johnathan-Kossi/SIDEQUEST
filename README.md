@@ -6,7 +6,7 @@ Ce dépôt contient une collection de write-ups pour différents challenges de C
 ## Challenges documentés
 
 ### Bank-Simulator
-- **Événement**: Non spécifié
+- **Événement**: BREIZH CTF
 - **Catégorie**: Exploitation binaire
 - **Difficulté**: Facile
 - **Description**: Challenge impliquant l'analyse d'un binaire ELF simple avec extraction de chaînes de caractères pour obtenir le flag.
