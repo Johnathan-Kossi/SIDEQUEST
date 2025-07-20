@@ -5,8 +5,7 @@ Date: 17 juillet 2025
 
 
 ## 📝 Introduction
-
-Dans cette note, on va explorer les challenges CTF du dossier L3akCTF. J'ai analysé les exploits existants et je vais t'expliquer comment ils fonctionnent de manière simple. C'est super intéressant de comprendre ces techniques !
+Voici ici le writeups du premier challenge de pwn.
 
 ---
 
